@@ -43,6 +43,7 @@ quantum/version.h
 .dep
 .history/
 build/
+bin/
 cmake-build-debug
 CMakeLists.txt
 
