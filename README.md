@@ -5,9 +5,7 @@ WDR45 is a custom keyboard layout, loosely inspired by the [Workman](https://wor
 It is particularly intended for split ortholinear/columnar keyboards. Specifically these keyboards:
 - [Kinesis Advantage360 Pro](https://kinesis-ergo.com/shop/adv360pro/) - WDR45 Repo: [d00astro/Adv360-Pro-ZMK](https://github.com/d00astro/Adv360-Pro-ZMK)
 - [Kinesis Advantage2](https://kinesis-ergo.com/keyboards/advantage2-keyboard/) - WDR45 Repo: TBD 
-- [ZSA Moonlander](https://www.zsa.io/moonlander/) - WDR45 Repo : This repository :)
-
-This is the repository for the ZSA Moonlander (QMK).
+- [ZSA Moonlander](https://www.zsa.io/moonlander/) - You can find WDR45 for the Moonlander on [ZSA Oryx](https://configure.zsa.io/moonlander/layouts/z9Bbj/latest/0) or you can use this Repo to build it using QMK.
 
 ## Layout
 
